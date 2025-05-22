@@ -1,4 +1,4 @@
-# DestinoMap
+# TourMarkr
 
 🌍 Um mapa interativo feito com [Leaflet](https://leafletjs.com/) onde você pode marcar destinos personalizados com nomes e armazená-los no navegador usando `localStorage`.
 

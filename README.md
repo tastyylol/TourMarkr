@@ -2,7 +2,7 @@
 
 🌍 Um mapa interativo feito com [Leaflet](https://leafletjs.com/) onde você pode marcar destinos personalizados com nomes e armazená-los no navegador usando `localStorage`.
 
-**[Clique aqui para abrir o site](https://tastyylol.github.io/TourMarkr/)**
+**[Clique aqui para visitar o TourMarkr](https://tastyylol.github.io/TourMarkr/)**
 
 ## ✨ Funcionalidades
 
